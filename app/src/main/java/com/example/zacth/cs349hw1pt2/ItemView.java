@@ -3,6 +3,7 @@ package com.example.zacth.cs349hw1pt2;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.widget.TextView;
 
 public class ItemView extends AppCompatActivity{
     @Override
